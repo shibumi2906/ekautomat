@@ -1,0 +1,8 @@
+material_rates:
+  Сталь 45: 1200
+  Нержавейка 12Х18Н10Т: 1800
+
+flags:
+  gear: 0.25
+  heat_treatment: 0.15
+  deep_holes: 0.2
